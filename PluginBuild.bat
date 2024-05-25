@@ -1,0 +1,1 @@
+B:\UnrealEngine\UE_5.4\Engine\Build\BatchFiles\RunUAT.bat BuildPlugin -Plugin="B:\Projects\XInventoryDemo\Plugins\XInventory\XInventory.uplugin" -Package="B:\Projects\XInventoryDemo\Builds\XInventory" -Rocket -2019
